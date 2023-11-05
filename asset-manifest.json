@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FilmZone/static/css/main.293bf000.css",
-    "main.js": "/FilmZone/static/js/main.f6895e15.js",
+    "main.js": "/FilmZone/static/js/main.7017137c.js",
     "static/js/787.4ce2fa35.chunk.js": "/FilmZone/static/js/787.4ce2fa35.chunk.js",
     "static/media/NtrEntry.mp4": "/FilmZone/static/media/NtrEntry.9853caefdcba5ad73f62.mp4",
     "static/media/RamEntry.mp4": "/FilmZone/static/media/RamEntry.bb6a188a65483a8ed092.mp4",
@@ -23,7 +23,6 @@
     "static/media/projeck-k2.jpg": "/FilmZone/static/media/projeck-k2.def2873b8868e9b0d385.jpg",
     "static/media/salaar4.jpg": "/FilmZone/static/media/salaar4.157867da0a9ccac567a4.jpg",
     "static/media/vk2.png": "/FilmZone/static/media/vk2.cd5d41ddc54d28c268d2.png",
-    "static/media/RRRFlag.jpg": "/FilmZone/static/media/RRRFlag.e934b9321aadbe6e6efb.jpg",
     "static/media/421710-project-k.jpg": "/FilmZone/static/media/421710-project-k.55f072fa044e13d57646.jpg",
     "static/media/Bajrangi-Bhaijaan.jpg": "/FilmZone/static/media/Bajrangi-Bhaijaan.3f689852a95dce450e43.jpg",
     "static/media/projeck-k3.jpg": "/FilmZone/static/media/projeck-k3.00f635885fc228688fb0.jpg",
@@ -31,11 +30,11 @@
     "static/media/ProjectKTitle2.png": "/FilmZone/static/media/ProjectKTitle2.0bd9645480cd25062d9d.png",
     "index.html": "/FilmZone/index.html",
     "main.293bf000.css.map": "/FilmZone/static/css/main.293bf000.css.map",
-    "main.f6895e15.js.map": "/FilmZone/static/js/main.f6895e15.js.map",
+    "main.7017137c.js.map": "/FilmZone/static/js/main.7017137c.js.map",
     "787.4ce2fa35.chunk.js.map": "/FilmZone/static/js/787.4ce2fa35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.293bf000.css",
-    "static/js/main.f6895e15.js"
+    "static/js/main.7017137c.js"
   ]
 }
