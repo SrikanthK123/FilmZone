@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MovieZone/static/css/main.d7126b34.css",
-    "main.js": "/MovieZone/static/js/main.88da3830.js",
+    "main.js": "/MovieZone/static/js/main.5705c367.js",
     "static/js/787.4ce2fa35.chunk.js": "/MovieZone/static/js/787.4ce2fa35.chunk.js",
     "static/media/NtrEntry.mp4": "/MovieZone/static/media/NtrEntry.9853caefdcba5ad73f62.mp4",
     "static/media/RamEntry.mp4": "/MovieZone/static/media/RamEntry.bb6a188a65483a8ed092.mp4",
@@ -31,11 +31,11 @@
     "static/media/ProjectKTitle2.png": "/MovieZone/static/media/ProjectKTitle2.0bd9645480cd25062d9d.png",
     "index.html": "/MovieZone/index.html",
     "main.d7126b34.css.map": "/MovieZone/static/css/main.d7126b34.css.map",
-    "main.88da3830.js.map": "/MovieZone/static/js/main.88da3830.js.map",
+    "main.5705c367.js.map": "/MovieZone/static/js/main.5705c367.js.map",
     "787.4ce2fa35.chunk.js.map": "/MovieZone/static/js/787.4ce2fa35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7126b34.css",
-    "static/js/main.88da3830.js"
+    "static/js/main.5705c367.js"
   ]
 }
