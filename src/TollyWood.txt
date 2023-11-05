@@ -1,0 +1,1063 @@
+{
+    "tollywoodMovies2021": [
+      
+      // Add more movie entries as needed
+      {
+        "movieTitle": "Shyam Singha Roy",
+        "releaseYear": 2023,
+        "directors": ["Sandeep Reddy Vanga"],
+        "producers": ["N. N. Venkatesh"],
+        "actors": [
+          {
+            "name": "Nani",
+            "character": "Shyam Singha Roy"
+          },
+          {
+            "name": "Krithi Shetty",
+            "character": "Name of Character"
+          }
+        ],
+        "genre": ["Drama", "Fantasy"],
+        "plot": "Shyam Singha Roy is a story of a man and his quest to rediscover his roots and understand the folklore of a Bengal village, with a touch of fantasy.",
+        "posterUrl": "https://example.com/shyam-singha-roy-poster.jpg",
+        "trailerUrl": "https://example.com/shyam-singha-roy-trailer.mp4",
+        "runtimeMinutes": 150,
+        "ratings": {
+          "IMDb": 7.6,
+          "RottenTomatoes": 88,
+          "Metacritic": 74
+        },
+        "boxOffice": {
+          "budget": "$10 million",
+          "gross": "$20 million"
+        },
+        "languages": ["Telugu"],
+        "country": "India",
+        "awards": ["Example Award 1", "Example Award 2"]
+      },
+      {
+        "movieTitle": "Love Story",
+        "releaseYear": 2022,
+        "directors": ["Sekhar Kammula"],
+        "producers": ["Narayandas Narang", "P. Ram Mohan Rao"],
+        "actors": [
+          {
+            "name": "Naga Chaitanya",
+            "character": "Revant"
+          },
+          {
+            "name": "Sai Pallavi",
+            "character": "Mounica"
+          }
+        ],
+        "genre": ["Romance", "Drama"],
+        "plot": "Love Story is a heartwarming tale of two individuals from contrasting backgrounds who meet and fall in love while pursuing their dreams in the city of Hyderabad.",
+        "posterUrl": "https://example.com/love-story-poster.jpg",
+        "trailerUrl": "https://example.com/love-story-trailer.mp4",
+        "runtimeMinutes": 135,
+        "ratings": {
+          "IMDb": 7.9,
+          "RottenTomatoes": 88,
+          "Metacritic": 80
+        },
+        "boxOffice": {
+          "budget": "$8 million",
+          "gross": "$35 million"
+        },
+        "languages": ["Telugu"],
+        "country": "India",
+        "awards": ["Best Romantic Film Award"]
+      },
+      {
+        "movieTitle": "Narappa",
+        "releaseYear": 2021,
+        "directors": ["Srikanth Addala"],
+        "producers": ["Suresh Babu"],
+        "actors": [
+          {
+            "name": "Venkatesh Daggubati",
+            "character": "Narappa"
+          },
+          {
+            "name": "Priyamani",
+            "character": "Sundaramma"
+          }
+        ],
+        "genre": ["Drama", "Action"],
+        "plot": "Narappa is a remake of the Tamil film 'Asuran' and tells the story of a farmer who fights against the injustices done to his family by a wealthy landlord.",
+        "posterUrl": "https://example.com/narappa-poster.jpg",
+        "trailerUrl": "https://example.com/narappa-trailer.mp4",
+        "runtimeMinutes": 152,
+        "ratings": {
+          "IMDb": 8.1,
+          "RottenTomatoes": 88,
+          "Metacritic": 75
+        },
+        "boxOffice": {
+          "budget": "$10 million",
+          "gross": "$30 million"
+        },
+        "languages": ["Telugu"],
+        "country": "India",
+        "awards": ["National Film Award for Best Feature Film"]
+      },
+      {
+        "movieTitle": "Vakeel Saab",
+        "releaseYear": 2021,
+        "directors": ["Venu Sriram"],
+        "producers": ["Dil Raju", "Boney Kapoor"],
+        "actors": [
+          {
+            "name": "Pawan Kalyan",
+            "character": "Advocate Satyadev"
+          },
+          {
+            "name": "Nivetha Thomas",
+            "character": "Vemula Palak"
+          }
+        ],
+        "genre": ["Drama", "Thriller"],
+        "plot": "Vakeel Saab is a remake of the Hindi film 'Pink' and deals with the story of three young women who face a legal battle after a serious incident and the lawyer who fights for justice.",
+        "posterUrl": "https://example.com/vakeel-saab-poster.jpg",
+        "trailerUrl": "https://example.com/vakeel-saab-trailer.mp4",
+        "runtimeMinutes": 154,
+        "ratings": {
+          "IMDb": 8.0,
+          "RottenTomatoes": 87,
+          "Metacritic": 73
+        },
+        "boxOffice": {
+          "budget": "$12 million",
+          "gross": "$40 million"
+        },
+        "languages": ["Telugu"],
+        "country": "India",
+        "awards": ["Nandi Award for Best Actor - Pawan Kalyan"]
+      },
+      {
+        "movieTitle": "Aranya",
+        "releaseYear": 2021,
+        "directors": ["Prabhu Solomon"],
+        "producers": ["Eros International"],
+        "actors": [
+          {
+            "name": "Rana Daggubati",
+            "character": "Aranya"
+          },
+          {
+            "name": "Zoya Hussain",
+            "character": "Character Name"
+          }
+        ],
+        "genre": ["Adventure", "Drama"],
+        "plot": "Aranya is a story about a man who forms a deep bond with elephants in the forests of India and becomes their protector. His mission is to save the elephants and their natural habitat from poachers and deforestation.",
+        "posterUrl": "https://example.com/aranya-poster.jpg",
+        "trailerUrl": "https://example.com/aranya-trailer.mp4",
+        "runtimeMinutes": 135,
+        "ratings": {
+          "IMDb": 7.4,
+          "RottenTomatoes": 75,
+          "Metacritic": 68
+        },
+        "boxOffice": {
+          "budget": "$15 million",
+          "gross": "$25 million"
+        },
+        "languages": ["Telugu", "Tamil", "Hindi"],
+        "country": "India",
+        "awards": ["National Film Award for Best Special Effects"]
+      },
+      {
+        "movieTitle": "A1 Express",
+        "releaseYear": 2021,
+        "directors": ["Dennis Jeevan Kanukolanu"],
+        "producers": ["T.G. Vishwa Prasad", "Abhishek Agarwal"],
+        "actors": [
+          {
+            "name": "Sundeep Kishan",
+            "character": "Sanju"
+          },
+          {
+            "name": "Lavanya Tripathi",
+            "character": "Lav"
+          }
+        ],
+        "genre": ["Sports", "Comedy"],
+        "plot": "A1 Express is a sports comedy film based on the sport of hockey. It follows the journey of Sanju, a young and talented hockey player who aims to revive his college's defunct hockey team and make a name for himself in the sport.",
+        "posterUrl": "https://example.com/a1-express-poster.jpg",
+        "trailerUrl": "https://example.com/a1-express-trailer.mp4",
+        "runtimeMinutes": 138,
+        "ratings": {
+          "IMDb": 7.2,
+          "RottenTomatoes": 70,
+          "Metacritic": 65
+        },
+        "boxOffice": {
+          "budget": "$8 million",
+          "gross": "$15 million"
+        },
+        "languages": ["Telugu"],
+        "country": "India",
+        "awards": ["SIIMA Award for Best Actor in a Leading Role - Sundeep Kishan"]
+      },
+      {
+        "movieTitle": "Naandhi",
+        "releaseYear": 2021,
+        "directors": ["Vijay Kanakamedala"],
+        "producers": ["Satish Vegesna", "Harish Peddi"],
+        "actors": [
+          {
+            "name": "Allari Naresh",
+            "character": "Surya Prakash"
+          },
+          {
+            "name": "Varalaxmi Sarathkumar",
+            "character": "Aadhya"
+          }
+        ],
+        "genre": ["Legal Drama", "Thriller"],
+        "plot": "Naandhi is a legal drama thriller that follows the story of Surya Prakash, who is wrongly accused of a crime and faces a long legal battle to prove his innocence and seek justice.",
+        "posterUrl": "https://example.com/naandhi-poster.jpg",
+        "trailerUrl": "https://example.com/naandhi-trailer.mp4",
+        "runtimeMinutes": 131,
+        "ratings": {
+          "IMDb": 7.7,
+          "RottenTomatoes": 83,
+          "Metacritic": 72
+        },
+        "boxOffice": {
+          "budget": "$5 million",
+          "gross": "$14 million"
+        },
+        "languages": ["Telugu"],
+        "country": "India",
+        "awards": ["Nandi Award for Best Feature Film"]
+      },
+      {
+        "movieTitle": "Krack",
+        "releaseYear": 2021,
+        "directors": ["Gopichand Malineni"],
+        "producers": ["B. Madhu"],
+        "actors": [
+          {
+            "name": "Ravi Teja",
+            "character": "ACP Pankaj Mishra"
+          },
+          {
+            "name": "Shruti Haasan",
+            "character": "Kalyani"
+          }
+        ],
+        "genre": ["Action", "Crime"],
+        "plot": "Krack is an action-packed crime thriller that revolves around ACP Pankaj Mishra, who is known for his ruthless methods in dealing with criminals. The movie follows his pursuit of a dangerous criminal gang led by Katari Krishna.",
+        "posterUrl": "https://example.com/krack-poster.jpg",
+        "trailerUrl": "https://example.com/krack-trailer.mp4",
+        "runtimeMinutes": 154,
+        "ratings": {
+          "IMDb": 6.6,
+          "RottenTomatoes": 70,
+          "Metacritic": 64
+        },
+        "boxOffice": {
+          "budget": "$8 million",
+          "gross": "$18 million"
+        },
+        "languages": ["Telugu"],
+        "country": "India",
+        "awards": ["SIIMA Award for Best Actor in a Leading Role - Ravi Teja"]
+      },
+      {
+        "movieTitle": "Pushpa: The Rise - Part 1",
+        "releaseYear": 2021,
+        "directors": ["Sukumar"],
+        "producers": ["Naveen Yerneni", "Ravi Shankar Yalamanchili"],
+        "actors": [
+          {
+            "name": "Allu Arjun",
+            "character": "Pushpa Raj"
+          },
+          {
+            "name": "Rashmika Mandanna",
+            "character": "Srivalli"
+          }
+        ],
+        "genre": ["Action", "Thriller"],
+        "plot": "Pushpa: The Rise is an action thriller that follows the story of Pushpa Raj, a red sandalwood smuggler, and his life in the forests of Andhra Pradesh.",
+        "posterUrl": "https://example.com/pushpa-1-poster.jpg",
+        "trailerUrl": "https://example.com/pushpa-1-trailer.mp4",
+        "runtimeMinutes": 153,
+        "languages": ["Telugu"],
+        "country": "India"
+      },
+      {
+        "movieTitle": "Lakshya",
+        "releaseYear": 2004,
+        "directors": ["Farhan Akhtar"],
+        "producers": ["Ritesh Sidhwani"],
+        "actors": [
+          {
+            "name": "Hrithik Roshan",
+            "character": "Karan Shergill"
+          },
+          {
+            "name": "Preity Zinta",
+            "character": "Romi"
+          }
+        ],
+        "genre": ["Drama", "War"],
+        "plot": "Lakshya is a war drama that follows the life of Karan Shergill, a young man who transforms from a directionless individual into a focused soldier during the Kargil War between India and Pakistan in 1999.",
+        "posterUrl": "https://example.com/lakshya-poster.jpg",
+        "trailerUrl": "https://example.com/lakshya-trailer.mp4",
+        "runtimeMinutes": 186,
+        "languages": ["Hindi"],
+        "country": "India"
+      },
+      {
+        "movieTitle": "Varudu Kaavalenu",
+        "releaseYear": 2021,
+        "directors": ["Sathish Vegesna"],
+        "producers": ["Dil Raju"],
+        "actors": [
+          {
+            "name": "Naga Chaitanya",
+            "character": "Name of Character"
+          },
+          {
+            "name": "Rashi Khanna",
+            "character": "Name of Character"
+          }
+        ],
+        "genre": ["Romantic Comedy"],
+        "plot": "Varudu Kaavalenu is a romantic comedy that tells the story of two individuals who cross paths under unusual circumstances and how their lives change as a result.",
+        "posterUrl": "https://example.com/varudu-kaavalenu-poster.jpg",
+        "trailerUrl": "https://example.com/varudu-kaavalenu-trailer.mp4",
+        "runtimeMinutes": 140,
+        "languages": ["Telugu"],
+        "country": "India"
+      },
+      {
+        "movieTitle": "Pushpaka Vimanam",
+        "releaseYear": 2021,
+        "directors": ["D. S. Prasadh"],
+        "producers": ["Srujan Yarabolu", "G. H. Phani Pramod"],
+        "actors": [
+          {
+            "name": "Anand Deverakonda",
+            "character": "Name of Character"
+          },
+          {
+            "name": "Geeth Saini",
+            "character": "Name of Character"
+          }
+        ],
+        "genre": ["Drama", "Comedy"],
+        "plot": "Pushpaka Vimanam is a comedy-drama that revolves around the life of a common man and his quirky adventures, including his fascination with a vintage car.",
+        "posterUrl": "https://example.com/pushpaka-vimanam-poster.jpg",
+        "trailerUrl": "https://example.com/pushpaka-vimanam-trailer.mp4",
+        "runtimeMinutes": 130,
+        "languages": ["Telugu"],
+        "country": "India"
+      },
+      {
+        "movieTitle": "Most Eligible Bachelor",
+        "releaseYear": 2021,
+        "directors": ["Bhaskar"],
+        "producers": ["Allu Aravind", "Bunny Vas"],
+        "actors": [
+          {
+            "name": "Akhil Akkineni",
+            "character": "Name of Character"
+          },
+          {
+            "name": "Pooja Hegde",
+            "character": "Name of Character"
+          }
+        ],
+        "genre": ["Romantic Comedy"],
+        "plot": "Most Eligible Bachelor is a romantic comedy that explores the modern dating world and relationships, focusing on the journey of a young man and woman in search of their life partners.",
+        "posterUrl": "https://example.com/most-eligible-bachelor-poster.jpg",
+        "trailerUrl": "https://example.com/most-eligible-bachelor-trailer.mp4",
+        "runtimeMinutes": 150,
+        "languages": ["Telugu"],
+        "country": "India"
+      },
+      {
+        "movieTitle": "Maestro",
+        "releaseYear": 2021,
+        "directors": ["Merlapaka Gandhi"],
+        "producers": ["Sudheer Babu"],
+        "actors": [
+          {
+            "name": "Nithiin",
+            "character": "Name of Character"
+          },
+          {
+            "name": "Nabha Natesh",
+            "character": "Name of Character"
+          }
+        ],
+        "genre": ["Crime", "Comedy"],
+        "plot": "Maestro is a crime-comedy film centered around a man who gets embroiled in a murder investigation and how he uses his wits and humor to navigate through the chaos.",
+        "posterUrl": "https://example.com/maestro-poster.jpg",
+        "trailerUrl": "https://example.com/maestro-trailer.mp4",
+        "runtimeMinutes": 140,
+        "languages": ["Telugu"],
+        "country": "India"
+      }
+    ],
+    "tollywoodMovies2021": [
+
+        {
+            "movieTitle": "Adipurush",
+            "releaseYear": 2022 ,
+            "directors": ["Om Raut"],
+            "producers": ["Bhushan Kumar", "Om Raut", "Prasad Sutar", "Rajesh Nair"],
+            "actors": [
+              {
+                "name": "Prabhas",
+                "character": "Lord Rama"
+              },
+              {
+                "name": "Saif Ali Khan",
+                "character": "Lankesh (Ravana)"
+              }
+            ],
+            "genre": ["Mythological", "Epic"],
+            "plot": "Adipurush is an epic mythological film that retells the tale of Lord Rama and his battle against the demon king Ravana. It explores the triumph of good over evil.",
+            "posterUrl": "https://example.com/adipurush-poster.jpg",
+            "trailerUrl": "https://example.com/adipurush-trailer.mp4",
+            "runtimeMinutes": 160 ,
+            "languages": ["Hindi", "Telugu", "and other Indian languages"],
+            "country": "India"
+          }
+          
+
+    ]
+    "tollywoodMovie2022":[
+        
+            {
+                "movieTitle": "Vikram",
+                "releaseYear": 2022,
+                "directors": ["Lokesh Kanagaraj"],
+                "producers": ["Kamal Haasan"],
+                "actors": [
+                  {
+                    "name": "Kamal Haasan",
+                    "character": "Agent Vikram"
+                  },
+                  {
+                    "name": "Agent Vikram",
+                    "character": "Santhanam"
+                  },
+                  {
+                    "name": "Fahadh Faasil",
+                    "character": "Amar"
+                  },
+                  {
+                    "name": "Suriya",
+                    "character": "Suriya"
+                  },
+                  {
+                    "name": "Karthi",
+                    "character": "Dilli"
+                  }
+                ],
+                "genre": ["Action", "Crime","Thriller"],
+                "plot": "A brief summary of the movie's plot.",
+                "posterUrl": "https://feeds.abplive.com/onecms/images/uploaded-images/2021/07/10/273e787ba809e725948334340c658e68_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628",
+                "trailerUrl": "https://imdb-video.media-imdb.com/vi3381510681/1434659607842-pgv4ql-1652773206518.mp4?Expires=1697098489&Signature=Oj31ImJvlB7CQw1NkHERgXLjWtnxi2VEuTS25qVxrxp3~sG3hiwAwnm9mtLAfp5Ncp8XKDakS7t4xp1WW1jVa8OTfwi5Bh-OwNqoYtLOcTT9G54lk-TLPRjetqSOIRlxvcd~zUb5z5UnDvXhiSwxUIGLIEYFmJUPx8xVyRtqqI6gRQCQ9eKPwAm6yZ7mIsWiDAcZM3fFGK-0AdaP2zv4O~zsAsPgG90~3Wy74sNgEK93VySBc2A8eCnVu3BtCm0PSAiri4pm9RURG0CiQvThrmWBPgdTdRUrIEogwXOby-J89-DHa9g1Yxi1QRmNzUIajrUGNS2B-U2LByL80D~onw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "runtimeMinutes": 175,
+                "ratings": {
+                  "IMDb": 8.3,
+                  "RottenTomatoes": 80,
+                  "Metacritic": 70
+                },
+                "boxOffice": {
+                  "budget": "$50 million",
+                  "gross": "$100 million"
+                },
+                "languages": ["Telugu","Tamil","Hindi"],
+                "country": "India",
+                "awards": ["Award 1", "Award 2"]
+              },
+              {
+                "movieTitle": "Yashoda",
+                "releaseYear": 2022,
+                "directors": ["	Hari–Harish"],
+                "producers": ["Sivalenka Krishna Prasad"],
+                "actors": [
+                  {
+                    "name": "Samantha",
+                    "character": "Yashoda"
+                  },
+                  {
+                    "name": "Unni Mukundan",
+                    "character": "Dr. Gautham"
+                  }
+                ],
+                "genre": ["Action", "Crime","Sci-Fi"],
+                "plot": "A brief summary of the movie's plot.",
+                "posterUrl": "https://www.bing.com/images/search?view=detailV2&ccid=%2fOa7bfPC&id=B5BDC10D1B755E1BD814D7D35512921B5F30ECED&thid=OIP._Oa7bfPCqTNWbff-p2s4XQHaKk&mediaurl=https%3a%2f%2fimages.justwatch.com%2fposter%2f301110578%2fs718%2fyashoda.%7bformat%7d&exph=1024&expw=718&q=yashoda+movie+genre&simid=608045804940654657&FORM=IRPRST&ck=0E679B5B1E00B59748585CA657AF15BB&selectedIndex=0",
+                "trailerUrl": "https://imdb-video.media-imdb.com/vi3803104537/1434659607842-pgv4ql-1666920972779.mp4?Expires=1697099461&Signature=ro96SGGXl9ZL7Mo3VshRN8odBDHnsLgMD0qnaUQ7iR-3GjKZvJ8ytjfnDpzaWSu0bCdyBQW1an9rFJuwB7sGbeSxEzu8LY3FCumMwRYFhQfQpT5iqETafqUsoEUT3IuBKZz6rYEZ~iyN3kKnTaoLMk60dvncHIPdSs-sXbD6IHsGwrnFBNg3xn-RGF8djl8O~G-ifQkJ-lIdfuT7N9Y3XnMh0XwNz-EXFzuuz1G2OTZi5PWwTRXVUUsGOkZiNDXrQPEj~lhDQy6RUaV7e4yiMoN8C2vct20Pd6pm6SlZOMaFJDOJup0Uj12jW-WM3e4xUsL~83RjYZTXA0dfmSRLSA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+                "runtimeMinutes": 132,
+                "ratings": {
+                  "IMDb": 6.6,
+                  "RottenTomatoes": 80,
+                  "Metacritic": 70
+                },
+                "boxOffice": {
+                  "budget": "₹30–50 crore",
+                  "gross": "₹32−50 crore"
+                },
+                "languages": ["Telugu","Tamil"],
+                "country": "India",
+                "awards": ["Bollywood Life Awards"]
+              },
+              {
+                "movieTitle": "Bimbisara",
+                "releaseYear": 2022,
+                "directors": ["Vassishta"],
+                "producers": ["Hari Krishna K"],
+                "actors": [
+                  {
+                    "name": "Kalyan Ram Nandamuri",
+                    "character": "Bimbisara"
+                  },
+                  {
+                    "name": "Catherine Tresa",
+                    "character": "Vyjayanti"
+                  },
+                  {
+                    "name": "Samyuktha Menon",
+                    "character": "Iravathi"
+                  }
+                ],
+                "genre": ["Action", "Fantasy"],
+                "plot": "A powerful king from the ancient past is transported to the present day, where he must find a way to adapt to his new surroundings and defeat a new enemy.",
+                "posterUrl": "https://example.com/bimbisara-poster.jpg",
+                "trailerUrl": "https://example.com/bimbisara-trailer.mp4",
+                "runtimeMinutes": 140,
+                "ratings": {
+                  "IMDb": 7.2,
+                  "RottenTomatoes": 75,
+                  "Metacritic": 65
+                },
+                "boxOffice": {
+                  "budget": "$10 million",
+                  "gross": "$20 million"
+                },
+                "languages": ["Telugu"],
+                "country": "India",
+                "awards": []
+              },
+              {
+                "movieTitle": "Oke Oka Jeevitham",
+                "releaseYear": 2022,
+                "directors": ["Shree Karthick"],
+                "producers": ["Dream Warrior Pictures"],
+                "actors": [
+                  {
+                    "name": "Sharwanand",
+                    "character": "Aadi"
+                  },
+                  {
+                    "name": "Ritu Varma",
+                    "character": "Kavya"
+                  },
+                  {
+                    "name": "Amala Akkineni",
+                    "character": "Suma"
+                  }
+                ],
+                "genre": ["Sci-Fi", "Comedy", "Drama"],
+                "plot": "A young man travels back in time to meet his mother and change her life.",
+                "posterUrl": "https://example.com/oke-oka-jeevitham-poster.jpg",
+                "trailerUrl": "https://example.com/oke-oka-jeevitham-trailer.mp4",
+                "runtimeMinutes": 157,
+                "ratings": {
+                  "IMDb": 7.4,
+                  "RottenTomatoes": 80,
+                  "Metacritic": 70
+                },
+                "boxOffice": {
+                  "budget": "$15 million",
+                  "gross": "$25 million"
+                },
+                "languages": ["Telugu"],
+                "country": "India",
+                "awards": ["Filmfare Award for Best Actor (Telugu)", "Nandi Award for Best Actor (Telugu)"]
+              },
+              {
+                "movieTitle": "Sita Ramam",
+                "releaseYear": 2022,
+                "directors": ["Hanu Raghavapudi"],
+                "producers": ["Swapna Dutt", "Ashwini Dutt"],
+                "actors": [
+                  {
+                    "name": "Dulquer Salmaan",
+                    "character": "Lieutenant Ram"
+                  },
+                  {
+                    "name": "Mrunal Thakur",
+                    "character": "Sita Mahalakshmi"
+                  },
+                  {
+                    "name": "Rashmika Mandanna",
+                    "character": "Afreen"
+                  }
+                ],
+                "genre": ["Romance", "Drama", "War"],
+                "plot": "The film tells the story of Lieutenant Ram, a Kashmiri Pandit soldier who falls in love with Sita Mahalakshmi, a Telugu woman, during the 1965 Indo-Pakistani War. The film also follows Afreen, a journalist who is tasked with finding Sita and delivering a letter to her from Ram.",
+                "posterUrl": "https://example.com/sita-ramam-poster.jpg",
+                "trailerUrl": "https://example.com/sita-ramam-trailer.mp4",
+                "runtimeMinutes": 160,
+                "ratings": {
+                  "IMDb": 8.0,
+                  "RottenTomatoes": 90,
+                  "Metacritic": 75
+                },
+                "boxOffice": {
+                  "budget": "$12 million",
+                  "gross": "$24 million"
+                },
+                "languages": ["Telugu", "Tamil", "Malayalam"],
+                "country": "India",
+                "awards": ["Filmfare Award for Best Film – Telugu", "Nandi Award for Best Film"]
+              },
+              {
+                "movieTitle": "Virata Parvam",
+                "releaseYear": 2022,
+                "directors": ["Venkatesh Maha"],
+                "producers": ["D. Suresh Babu, Sudhakar Cherukuri"],
+                "actors": [
+                  {
+                    "name": "Rana Daggubati",
+                    "character": "Comrade Ravanna"
+                  },
+                  {
+                    "name": "Samantha Akkineni",
+                    "character": "Sithara"
+                  },
+                  {
+                    "name": "Naresh",
+                    "character": "Bhavani"
+                  },
+                  {
+                    "name": "Samuthirakani",
+                    "character": "Gandharva"
+                  },
+                  {
+                    "name": "Anant Nag",
+                    "character": "Suryakumar"
+                  }
+                ],
+                "genre": ["Action", "Drama"],
+                "plot": "A young woman from a wealthy family falls in love with a Naxalite leader, and their love is tested against the backdrop of the Naxalite movement in the 1980s.",
+                "posterUrl": "https://example.com/virata-parvam-poster.jpg",
+                "trailerUrl": "https://example.com/virata-parvam-trailer.mp4",
+                "runtimeMinutes": 150,
+                "ratings": {
+                  "IMDb": 7.5,
+                  "RottenTomatoes": 90,
+                  "Metacritic": 80
+                },
+                "boxOffice": {
+                  "budget": "$20 million",
+                  "gross": "$50 million"
+                },
+                "languages": ["Telugu"],
+                "country": "India",
+                "awards": [
+                  "National Film Award for Best Actor (Male) - Rana Daggubati",
+                  "National Film Award for Best Actress - Samantha Akkineni",
+                  "Filmfare Award South for Best Actor (Telugu) - Rana Daggubati",
+                  "Filmfare Award South for Best Actress (Telugu) - Samantha Akkineni"
+                ]
+              },
+              {
+                "movieTitle": "RRR",
+                "releaseYear": 2022,
+                "directors": ["S. S. Rajamouli"],
+                "producers": ["D. V. V. Danayya"],
+                "actors": [
+                  {
+                    "name": "N. T. Rama Rao Jr.",
+                    "character": "Alluri Sitarama Raju"
+                  },
+                  {
+                    "name": "Ram Charan",
+                    "character": "Komaram Bheem"
+                  },
+                  {
+                    "name": "Alia Bhatt",
+                    "character": "Sita"
+                  },
+                  {
+                    "name": "Ajay Devgn",
+                    "character": "Gurunath Singh"
+                  }
+                ],
+                "genre": ["Action", "Adventure", "Historical Fiction"],
+                "plot": "A fictional story about two Indian revolutionaries, Alluri Sitarama Raju (N. T. Rama Rao Jr.) and Komaram Bheem (Ram Charan), who fought against the British Raj and the Nizam of Hyderabad, respectively.",
+                "posterUrl": "https://example.com/rrr-poster.jpg",
+                "trailerUrl": "https://example.com/rrr-trailer.mp4",
+                "runtimeMinutes": 180,
+                "ratings": {
+                  "IMDb": 8.8,
+                  "RottenTomatoes": 91%,
+                  "Metacritic": 80
+                },
+                "boxOffice": {
+                  "budget": "$70 million",
+                  "gross": "$1 billion"
+                },
+                "languages": ["Telugu"],
+                "country": "India",
+                "awards": ["Golden Globe Award for Best Foreign Language Film", "Academy Award for Best Picture"]
+              },
+              {
+                "movieTitle": "Ante Sundaraniki",
+                "releaseYear": 2022,
+                "directors": ["Vivek Athreya"],
+                "producers": ["Mythri Movie Makers"],
+                "actors": [
+                  {
+                    "name": "Nani",
+                    "character": "Kasim"
+                  },
+                  {
+                    "name": "Nazriya Nazim",
+                    "character": "Leela Thomas"
+                  },
+                  {
+                    "name": "Naresh",
+                    "character": "Kasim's father"
+                  },
+                  {
+                    "name": "Rohini",
+                    "character": "Kasim's mother"
+                  },
+                  {
+                    "name": "Nadhiya",
+                    "character": "Leela's mother"
+                  },
+                  {
+                    "name": "Azhagam Perumal",
+                    "character": "Leela's father"
+                  }
+                ],
+                "genre": ["Comedy", "Romance"],
+                "plot": "Kasim and Leela fall in love and get married, but they soon learn that their parents are from rival religions. The couple must now find a way to bridge the gap between their families and keep their marriage alive.",
+                "posterUrl": "https://example.com/ante-sundaraniki-poster.jpg",
+                "trailerUrl": "https://example.com/ante-sundaraniki-trailer.mp4",
+                "runtimeMinutes": 130,
+                "ratings": {
+                  "IMDb": 7.5,
+                  "RottenTomatoes": 80,
+                  "Metacritic": 70
+                },
+                "boxOffice": {
+                  "budget": "$10 million",
+                  "gross": "$20 million"
+                },
+                "languages": ["Telugu"],
+                "country": "India",
+                "awards": []
+              },
+              {
+                "movieTitle": "Major",
+                "releaseYear": 2022,
+                "directors": ["Sashi Kiran Tikka"],
+                "producers": ["Sony Pictures Films India", "Mahesh Babu Entertainment"],
+                "actors": [
+                  {
+                    "name": "Adivi Sesh",
+                    "character": "Major Sandeep Unnikrishnan"
+                  },
+                  {
+                    "name": "Sobhita Dhulipala",
+                    "character": "Pramoda"
+                  },
+                  {
+                    "name": "Saiee Manjrekar",
+                    "character": "Isha"
+                  }
+                ],
+                "genre": ["Action", "Biography"],
+                "plot": "The film tells the story of Major Sandeep Unnikrishnan, an Indian Army officer who was martyred in the 2008 Mumbai attacks.",
+                "posterUrl": "https://example.com/major-poster.jpg",
+                "trailerUrl": "https://example.com/major-trailer.mp4",
+                "runtimeMinutes": 143,
+                "ratings": {
+                  "IMDb": 8.0,
+                  "RottenTomatoes": 90,
+                  "Metacritic": 75
+                },
+                "boxOffice": {
+                  "budget": "$12 million",
+                  "gross": "$24 million"
+                },
+                "languages": ["Telugu", "Hindi", "Malayalam"],
+                "country": "India",
+                "awards": ["National Film Award for Best Actor – Male (Special Mention)", "Filmfare Award for Best Actor – Telugu"]
+              },
+              {
+                "movieTitle": "Bheemla Nayak",
+                "releaseYear": 2022,
+                "directors": ["Saagar K. Chandra"],
+                "producers": ["Sithara Entertainments"],
+                "actors": [
+                  {
+                    "name": "Pawan Kalyan",
+                    "character": "Bheemla Nayak"
+                  },
+                  {
+                    "name": "Rana Daggubati",
+                    "character": "Daniel Shekar"
+                  },
+                  {
+                    "name": "Nithya Menen",
+                    "character": "Saagar"
+                  }
+                ],
+                "genre": ["Action", "Drama"],
+                "plot": "A remake of the Malayalam film Ayyappanum Koshiyum, Bheemla Nayak tells the story of two powerful men who clash, leading to a series of violent confrontations.",
+                "posterUrl": "https://example.com/bheemla-nayak-poster.jpg",
+                "trailerUrl": "https://example.com/bheemla-nayak-trailer.mp4",
+                "runtimeMinutes": 158,
+                "ratings": {
+                  "IMDb": 7.5,
+                  "RottenTomatoes": 80,
+                  "Metacritic": 70
+                },
+                "boxOffice": {
+                  "budget": "$10 million",
+                  "gross": "$20 million"
+                },
+                "languages": ["Telugu"],
+                "country": "India",
+                "awards": ["Filmfare Award for Best Actor – Telugu (Male)", "Nandi Award for Best Actor"]
+              },
+              {
+                "movieTitle": "Dhamaka",
+                "releaseYear": 2022,
+                "directors": ["Trinadha Rao Nakkina"],
+                "producers": ["People Media Factory", "Abhishek Agarwal Arts"],
+                "actors": [
+                  {
+                    "name": "Ravi Teja",
+                    "character": "Swamy/Anand Chakravarty"
+                  },
+                  {
+                    "name": "Sreeleela",
+                    "character": "Pranavi"
+                  },
+                  {
+                    "name": "Jayaram",
+                    "character": "JP"
+                  },
+                  {
+                    "name": "Sachin Khedekar",
+                    "character": "Chakravarty"
+                  },
+                  {
+                    "name": "Tanikella Bharani",
+                    "character": "Swamy's father"
+                  },
+                  {
+                    "name": "Rao Ramesh",
+                    "character": "Minister"
+                  },
+                  {
+                    "name": "Chirag Jani",
+                    "character": "Swamy's friend"
+                  },
+                  {
+                    "name": "Ali",
+                    "character": "Swamy's boss"
+                  },
+                  {
+                    "name": "Praveen",
+                    "character": "Swamy's friend"
+                  }
+                ],
+                "genre": ["Action", "Comedy"],
+                "plot": "A live news reporter finds himself in a hostage situation. He must use his wit and skills to save the hostages and expose a corrupt politician.",
+                "posterUrl": "https://example.com/dhamaka-poster.jpg",
+                "trailerUrl": "https://example.com/dhamaka-trailer.mp4",
+                "runtimeMinutes": 130,
+                "ratings": {
+                  "IMDb": 7.5,
+                  "RottenTomatoes": 80,
+                  "Metacritic": 70
+                },
+                "boxOffice": {
+                  "budget": "₹70 crore",
+                  "gross": "₹108 crore"
+                },
+                "languages": ["Telugu"],
+                "country": "India",
+                "awards": []
+              },
+
+    ]
+  }
+
+  "tollywoodMovie2022":[
+        
+    
+        {
+            "movieTitle": "Adipurush",
+            "releaseYear": 2023,
+            "directors": ["Om Raut"],
+            "producers": ["Bhushan Kumar", "Krishan Kumar", "Om Raut", "Prasad Sutar", "Rajesh Nair", "Vamsi Pramod"],
+            "actors": [
+              {
+                "name": "Prabhas",
+                "character": "Lord Rama"
+              },
+              {
+                "name": "Kriti Sanon",
+                "character": "Sita"
+              },
+              {
+                "name": "Saif Ali Khan",
+                "character": "Ravana"
+              }
+            ],
+            "genre": ["Action", "Drama", "Fantasy"],
+            "plot": "A retelling of the Hindu epic Ramayana, Adipurush tells the story of Lord Rama, who battles the demon king Ravana to rescue his wife, Sita.",
+            "posterUrl": "https://example.com/adipurush-poster.jpg",
+            "trailerUrl": "https://example.com/adipurush-trailer.mp4",
+            "runtimeMinutes": 160,
+            "ratings": {
+              "IMDb": 7.5,
+              "RottenTomatoes": 80,
+              "Metacritic": 70
+            },
+            "boxOffice": {
+              "budget": "$400 million",
+              "gross": "$600 million"
+            },
+            "languages": ["Telugu", "Hindi"],
+            "country": "India",
+            "awards": ["Filmfare Award for Best Film – Telugu", "Nandi Award for Best Feature Film – Telugu"]
+          },
+          {
+            "movieTitle": "Vaarasudu",
+            "releaseYear": 2023,
+            "director": "Vamshi Paidipally",
+            "producer": "Dil Raju",
+            "actors": [
+              {
+                "name": "Vijay",
+                "character": "Vijay"
+              },
+              {
+                "name": "Rashmika Mandanna",
+                "character": "Aadya"
+              },
+              {
+                "name": "R. Sarathkumar",
+                "character": "Rajendran"
+              },
+              {
+                "name": "Prakash Raj",
+                "character": "Jayaprakash"
+              },
+              {
+                "name": "Shaam",
+                "character": "Aditya"
+              }
+            ],
+            "genre": ["Action", "Drama"],
+            "plot": "Vijay, the son of a wealthy businessman, returns home after seven years to save his family from a business rival. He falls in love with Aadya, the daughter of his rival, and must choose between love and duty.",
+            "posterUrl": "https://example.com/vaarasudu-poster.jpg",
+            "trailerUrl": "https://example.com/vaarasudu-trailer.mp4",
+            "runtimeMinutes": 150,
+            "ratings": {
+              "IMDb": 7.5,
+              "RottenTomatoes": 80,
+              "Metacritic": 70
+            },
+            "boxOffice": {
+              "budget": "$100 million",
+              "gross": "$200 million"
+            },
+            "languages": ["Telugu"],
+            "country": "India",
+            "awards": []
+          },
+          {
+            "movieTitle": "Kushi",
+            "releaseYear": 2023,
+            "directors": ["Shiva Nirvana"],
+            "producers": ["Mythri Movie Makers"],
+            "actors": [
+              {
+                "name": "Vijay",
+                "character": "Siva"
+              },
+              {
+                "name": "Samantha Ruth Prabhu",
+                "character": "Madhavi"
+              }
+            ],
+            "genre": ["Romantic Comedy"],
+            "plot": "A young man and woman fall in love, but their relationship is threatened by their social differences.",
+            "posterUrl": "https://example.com/kushi-poster.jpg",
+            "trailerUrl": "https://example.com/kushi-trailer.mp4",
+            "runtimeMinutes": 120,
+            "ratings": {
+              "IMDb": "3/5",
+              "RottenTomatoes": "N/A",
+              "Metacritic": "N/A"
+            },
+            "boxOffice": {
+              "budget": "N/A",
+              "gross": "N/A"
+            },
+            "languages": ["Telugu"],
+            "country": "India",
+            "awards": []
+          },
+          {
+  "movieTitle": "Baby 2023",
+  "releaseYear": 2023,
+  "directors": ["Sai Rajesh Neelam"],
+  "producers": ["SKN"],
+  "actors": [
+    {
+      "name": "Anand Deverakonda",
+      "character": "Anand"
+    },
+    {
+      "name": "Vaishnavi Chaitanya",
+      "character": "Vaishnavi "
+    }
+  ],
+  "genre": ["Comedy", "Drama"],
+  "plot": "Anand and Vaishnavi are neighours and high school students, who live in a slum in Hyderabad. Vaishnavi has a crush on Anand.",
+  "posterUrl": "https://example.com/baby-2023-poster.jpg",
+  "trailerUrl": "https://example.com/baby-2023-trailer.mp4",
+  "runtimeMinutes": 130,
+  "ratings": {
+    "IMDb": 3,
+    "RottenTomatoes": 0,
+    "Metacritic": 0
+  },
+  "boxOffice": {
+    "budget": "₹10 croren",
+    "gross": "₹90 crore"
+  },
+  "languages": ["Telugu"],
+  "country": "India",
+  "awards": []
+}
+
+          
+          
+        
+    
+]
+  
