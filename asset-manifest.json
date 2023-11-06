@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FilmZone/static/css/main.293bf000.css",
-    "main.js": "/FilmZone/static/js/main.4754de1a.js",
+    "main.js": "/FilmZone/static/js/main.bfaa05dc.js",
     "static/js/787.4ce2fa35.chunk.js": "/FilmZone/static/js/787.4ce2fa35.chunk.js",
     "static/media/Avengers EndgameFight Scenes.mp4": "/FilmZone/static/media/Avengers EndgameFight Scenes.3ef8ab650117bdd3fc20.mp4",
     "static/media/NtrEntry.mp4": "/FilmZone/static/media/NtrEntry.9853caefdcba5ad73f62.mp4",
@@ -35,11 +35,11 @@
     "static/media/ProjectKTitle2.png": "/FilmZone/static/media/ProjectKTitle2.0bd9645480cd25062d9d.png",
     "index.html": "/FilmZone/index.html",
     "main.293bf000.css.map": "/FilmZone/static/css/main.293bf000.css.map",
-    "main.4754de1a.js.map": "/FilmZone/static/js/main.4754de1a.js.map",
+    "main.bfaa05dc.js.map": "/FilmZone/static/js/main.bfaa05dc.js.map",
     "787.4ce2fa35.chunk.js.map": "/FilmZone/static/js/787.4ce2fa35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.293bf000.css",
-    "static/js/main.4754de1a.js"
+    "static/js/main.bfaa05dc.js"
   ]
 }
