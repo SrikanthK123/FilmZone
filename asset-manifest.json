@@ -1,12 +1,16 @@
 {
   "files": {
     "main.css": "/FilmZone/static/css/main.293bf000.css",
-    "main.js": "/FilmZone/static/js/main.7017137c.js",
+    "main.js": "/FilmZone/static/js/main.b255ab1d.js",
     "static/js/787.4ce2fa35.chunk.js": "/FilmZone/static/js/787.4ce2fa35.chunk.js",
+    "static/media/Avengers EndgameFight Scenes.mp4": "/FilmZone/static/media/Avengers EndgameFight Scenes.3ef8ab650117bdd3fc20.mp4",
     "static/media/NtrEntry.mp4": "/FilmZone/static/media/NtrEntry.9853caefdcba5ad73f62.mp4",
+    "static/media/Bahubail2Fight.mp4": "/FilmZone/static/media/Bahubail2Fight.c15d7cde523b6939e246.mp4",
     "static/media/RamEntry.mp4": "/FilmZone/static/media/RamEntry.bb6a188a65483a8ed092.mp4",
+    "static/media/Bajrangi Bhaijaan .mp4": "/FilmZone/static/media/Bajrangi Bhaijaan .f62e7e5ceeb3e11c3201.mp4",
     "static/media/RRR.mp4": "/FilmZone/static/media/RRR.378e0473b2f764b919a1.mp4",
     "static/media/IntervalSceneRrr2.mp4": "/FilmZone/static/media/IntervalSceneRrr2.79fbee3a5823914fdd2d.mp4",
+    "static/media/VikramTheme.mp4": "/FilmZone/static/media/VikramTheme.64323d64f6c6313eac57.mp4",
     "static/media/rrr3.mp4": "/FilmZone/static/media/rrr3.ccd78a99bf74c6884089.mp4",
     "static/media/rrr-ram-charan-2.jpg": "/FilmZone/static/media/rrr-ram-charan-2.fbe1bb3b986e07edf8c9.jpg",
     "static/media/pushparaj3.jpg": "/FilmZone/static/media/pushparaj3.817b1f3fef462addd36c.jpg",
@@ -30,11 +34,11 @@
     "static/media/ProjectKTitle2.png": "/FilmZone/static/media/ProjectKTitle2.0bd9645480cd25062d9d.png",
     "index.html": "/FilmZone/index.html",
     "main.293bf000.css.map": "/FilmZone/static/css/main.293bf000.css.map",
-    "main.7017137c.js.map": "/FilmZone/static/js/main.7017137c.js.map",
+    "main.b255ab1d.js.map": "/FilmZone/static/js/main.b255ab1d.js.map",
     "787.4ce2fa35.chunk.js.map": "/FilmZone/static/js/787.4ce2fa35.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.293bf000.css",
-    "static/js/main.7017137c.js"
+    "static/js/main.b255ab1d.js"
   ]
 }
